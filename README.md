@@ -21,7 +21,7 @@ This project is a Customer Relationship Management (CRM) software application th
   - View and reply to customer issues.
   - View customer feedback.
 ## ER-Diagram
-
+<p><img src="./ERD.png"></p>
 
 ## Tech Stack
 
