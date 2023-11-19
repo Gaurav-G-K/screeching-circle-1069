@@ -21,7 +21,9 @@ This project is a Customer Relationship Management (CRM) software application th
   - View and reply to customer issues.
   - View customer feedback.
 ## ER-Diagram
-<p><img src="./ERD.png"></p>
+![ERD](https://github.com/Gaurav-G-K/screeching-circle-1069/assets/110109014/e51ab932-fd9b-4a44-b553-28efebf79c0a)
+
+
 
 ## Tech Stack
 
